@@ -2,7 +2,7 @@
 
 A simple and responsive React app to generate secure passwords, built with **React**, **Tailwind CSS**, and **Vite**.
 
-[Password Generator Preview](https://rumman999.github.io/monitor-deadpixel-test/react-RPG)
+[Password Generator Preview](https://rumman999.github.io/react-RPG)
 
 
 ---
